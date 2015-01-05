@@ -111,19 +111,20 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:040159_0000_101630ECEB7D4530"/>
-            <pb facs="tcp:040159_0001_101630EF24C31260" rendition="simple:additions"/>
+            <pb facs="unknown:040159_0000_101630ECEB7D4530"/>
+            <pb facs="unknown:040159_0001_101630EF24C31260"
+                rendition="simple:additions"/>
             <p>A SCHEME FOR A <hi>Paper Currency,</hi> FOR THE BENEFIT OF THE PROVINCE.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:040159_0002_101630F1D4A8D180"/>
+            <pb facs="unknown:040159_0002_101630F1D4A8D180"/>
             <head>TO THE Gentlemen and Inhabitants OF THE <hi>Maſſachuſetts-Bay</hi> in <hi>New-England</hi>: Eſpecially to ſuch as are Lovers and Encouragers of Ju<g ref="char:EOLhyphen"/>ſtice and Ingenuity, and Haters of Cruelty and Op<g ref="char:EOLhyphen"/>preſſion.</head>
             <opener>
                <salute>Gentlemen,</salute>
             </opener>
             <p>
                <seg rend="decorInit">I</seg> Humbly make bold to lay before you a ſmall <hi>SCHEME</hi>; which I don't Doubt your complying with: For as there is now an abſolute Neceſſſity for coming into a <hi>Paper Scheme</hi> for immediate Relief: And as the <hi>Merchants</hi> in <hi>London,</hi> that Trade to theſe Parts, have long ſince made Intereſt, before the <hi>Lords of Trade,</hi> for them to Deſire his Majeſty not to ſuffer any more <hi>Paper Money</hi> to be made by <hi>Royal Authority.</hi> The Arguments laid before his Majeſty appear'd ſo reaſona<g ref="char:EOLhyphen"/>ble and juſt, that without ſuperiour Argu<g ref="char:EOLhyphen"/>ments can be laid before his Majeſty, his Royal Inſtructions will ſtand firm; and not any ways to be evaded by his Majeſty's Go<g ref="char:EOLhyphen"/>vernors: <hi>Therefore</hi> as it may be mathemati<g ref="char:EOLhyphen"/>cally proved, that a <hi>Society</hi> can make better
-<pb n="ii" facs="tcp:040159_0003_101630F3FA217070"/>
+<pb n="ii" facs="unknown:040159_0003_101630F3FA217070"/>
 Money than the <hi>Government,</hi> it's meer Trifling for the <hi>Gentlemen of the Aſſembly</hi> to draw Money Bills, when they abſolutely know that his Excellency hath not <hi>Power</hi> to ſign them. And the whole <hi>Body</hi> of the Gentlemen of this moſt noble Province muſt lay by that grand <hi>Idol,</hi> Self and Self-Conceit; and all Unite as one Man, and directly purſue juſt &amp; reaſonable Schemes; and then all Murmurs and Com<g ref="char:EOLhyphen"/>plaints will ceaſe, and univerſal Love appear in the Face of each Man. And what more Noble and Grand than to be of a juſt God-like Way of Thinking and Acting: and what more like the Devil than to be of a mean, low, poor, grovelling, ſelfiſh Nature, ſo much de<g ref="char:EOLhyphen"/>ſpiſed and abhorred by the almighty <hi>Being</hi> of <hi>Beings.</hi> As for my Part, I can with hum<g ref="char:EOLhyphen"/>ble <hi>Modeſty</hi> ſay, I am a true Lover of Man<g ref="char:EOLhyphen"/>kind, and heartily wiſh <hi>Proſperity</hi> to every in<g ref="char:EOLhyphen"/>dividual Man now living on the Earth. And as I promiſed the Publick, two Years ſince, a Book on Manufacturies, (having almoſt compleated it) when compleated I ſhall lay it before the Publick. And as the Publick receives this ſmall Hint of a Scheme, I ſhall be able to Judge how my Book of Manufac<g ref="char:EOLhyphen"/>turies will be received. Having nothing more to add. I make bold, <hi>Gentlemen,</hi> to ſub<g ref="char:EOLhyphen"/>ſcribe my ſelf a true and hearty Lover of <hi>New-England.</hi>
             </p>
             <closer>
@@ -133,7 +134,7 @@ Money than the <hi>Government,</hi> it's meer Trifling for the <hi>Gentlemen of 
       </front>
       <body>
          <div type="text">
-            <pb n="1" facs="tcp:040159_0004_101630F5D56FE658"/>
+            <pb n="1" facs="unknown:040159_0004_101630F5D56FE658"/>
             <head>A SCHEME FOR A Paper Currency.</head>
             <p>
                <seg rend="decorInit">R</seg>EADING in ſome of the News-Papers, the laſt ſitting of the Honourable Aſſembly of this Province, of a Peti<g ref="char:EOLhyphen"/>tion ſign'd by a great Number of the Freeholders of this Town, was preſented to the Court, for Relief under their preſent difficult and diſtreſſing Circumſtances, for want of a ſufficient Medium; whereby the Trade and Buſineſs of the Town is very much decayed, Law-Suits increaſed, and Caſh to purchaſe the Neceſſaries of Life hard to be attained, even by many of good Eſtates among them. It muſt plainly appear, to a Mathematical Demonſtration, that nothing can help or relieve this Town out of its preſent great Difficulties and bad Circumſtances, but Frugality and Induſtry, and purſuing juſt and reaſonable Schemes. For any reaſonable Man living to think that the Printing a few Rheams of Paper, with<g ref="char:EOLhyphen"/>out the leaſt Shadow of Foundation, and calling it Money, will relieve them, they are vaſtly miſtaken, it will only lead them into a vaſt Labyrinth of Evils.</p>
@@ -141,7 +142,7 @@ Money than the <hi>Government,</hi> it's meer Trifling for the <hi>Gentlemen of 
             <p>IT muſt be allowed that a Number can perform more than a few, which is juſt and r<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>aſonable: For the Gentlemen in <hi>England, Holland</hi> and other Parts of the Trading World, form themſelves into SOCIETIES and COMPANIES for the carry<g ref="char:EOLhyphen"/>ing on <hi>vaſt</hi> Deſigns in Trade and Commerce. The <hi>Dutch</hi> are the only People
-<pb n="2" facs="tcp:040159_0005_101630F7AED42CA8"/>
+<pb n="2" facs="unknown:040159_0005_101630F7AED42CA8"/>
 who have got Money by their firſt Scheme: Their Maxims are thus, when they have a Mind to bring any Manufactury into their Country, they always procure the beſt Workmen from that Country where that Manufactury is carried on to the utmoſt Perfection. Having procured Workmen, they perform to thoſe Men their Engage<g ref="char:EOLhyphen"/>ments and Contracts to the leaſt Tittle: And thoſe Workmen finding themſelves juſtly dealt withal, they directly bring that Manufactury to as great Perfection as it is carried on in the Country they came from. And thus from theſe wiſe Maxims, which the <hi>Dutch</hi> have followed, they have brought them to that glorious Figure which they now make in the World.</p>
             <p>
                <hi>NOW to my Scheme.</hi> There is the compleateſt Place for the Erecting and Build<g ref="char:EOLhyphen"/>ing Twenty Mills on of any Place I ever ſaw in my Life; it is from the Warehouſe of JO<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -165,7 +166,7 @@ who have got Money by their firſt Scheme: Their Maxims are thus, when they have
                </gap> Mills for grinding Tanners Bark, both for home Conſumption and <hi>Ireland,</hi> ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>eral Gentlemen will be able to inform. A Number of Logwood Mills, a Num<g ref="char:EOLhyphen"/>ber of Merchants will be able to inform: And ſo by a Party of Reaſon all the reſt of the Mills are explained. The Place lies entirely on Water Carriage, and has a conſtant Supply of Water all the Summer, which is the only Time to perform Buſi<g ref="char:EOLhyphen"/>neſs. It has already been juſtly Surveyed, and a Plan taken. And was a Number of Gentlemen to be incorporated by the General Aſſembly, they might bring this Scheme to Perfection immediately, to the vaſt Service of this Town and Province in general. I can with Modeſty ſay, this is the beſt Scheme that ever was on the
-<pb n="3" facs="tcp:040159_0006_101630FA2DB89ED0"/>
+<pb n="3" facs="unknown:040159_0006_101630FA2DB89ED0"/>
 Tapis ſince the Colony has been ſettled. It is not like the Uncertainty of the Min<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> Adventurers, but as ſoon as theſe Mills are built they will produce a certain Profit, as ſure as the Sun that moves. The Corn Mills at <hi>Bow</hi> near <hi>London,</hi> with twelve Pair of Stones, are let at <hi>Nine hundred Pounds</hi> Sterling a Year, and I will Mathe<g ref="char:EOLhyphen"/>matically prove, that twelve Pair of Stones built on the abovementioned Place will produce as much Profit as the Mills at <hi>Bow.</hi> And ſuch a fine Scituation for Mills can<g ref="char:EOLhyphen"/>not be better in any Place in the World. There is now an abſolute Neceſſity for coming into a juſt Scheme in order to have Money paſs for a Supply of our com<g ref="char:EOLhyphen"/>mon Neceſſities, till ſuch time as by our Frugality and Dent of Induſtry we bring Silver and Gold to paſs as a proper Medium; which was the real Deſign of <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -197,7 +198,7 @@ Tapis ſince the Colony has been ſettled. It is not like the Uncertainty of the
                </gap>king that will anſwer the End, it will only embarraſs and entirely Ruin hundreds of Families, and bring on Law-Suits almoſt numberleſs. It muſt be allow<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>d that a Merchant managed his Affairs with Prudence and Caution, when he has brought his Trading to ſuch a Point that his Profits may be large, and his Loſs not conſiderable. But ſhould a Man of Traffick put <hi>Twenty thouſand Pounds</hi> on board a leaky Veſſel, and ſend it to the <hi>Spaniſh Weſt-Indies,</hi> through as many Dangers as there are Shelves in the Sea, or Points in the Compaſs, with the
-<pb n="4" facs="tcp:040159_0007_101630FBB79B5A00"/>
+<pb n="4" facs="unknown:040159_0007_101630FBB79B5A00"/>
 bare Hopes of gaining <hi>Six Peace,</hi> would not all Mankind poſt up ſuch a Merchant for a mad Man: I leave the Application.</p>
             <p>THIS Body Politick may be juſtly compared to a Merchant beginning the World with <hi>One hundred Thouſand Pounds,</hi> and directly advanceth to a Trade that requires <hi>One Million</hi> ready Specie. Notwithſtanding the Merchant has an exceeding good Character in all Parts of the trading World, and his Credit ſupported a vaſt many Years with a fair Shew, yet in the End it will be the intire Ruin, not only of him<g ref="char:EOLhyphen"/>ſelf, but of vaſt Numbers of other Men. The Reaſon is, it is plain that for want of a ſufficient Sum to carry on his Trade, he is often obliged to part with his Goods for leſs than Prime Coſt, beſides making uſe of Uſerers and griping Extortioners, which will always Prey on him like ſo many Vultures or Horſeleach's: And the poor honeſt Gentleman, ſo far from growing Rich for the Reward of his great Pains and Induſtry, not only ſinks his own private Patrimony of <hi>One hundred thouſand Pounds,</hi> but a great many Hundreds beſides. His Character is entirely ruin'd in all Parts of the Trading World, and his End may be in Ruin and Want And his Sub<g ref="char:EOLhyphen"/>ſtance, with other honeſt Gentlemen's, who conſign'd to him, got into the Hands of baſe unworthy Knaves, who have watched all Opportunities to take Advantage of the poor Gentleman's Neceſſity.</p>
             <p>HIS Excellency <hi>JONATHAN BELCHER,</hi> Eſq<g ref="char:punc">▪</g> our Governor, hath twice recommended to the General Aſſembly the employing a Number of Men to take an exact Survey of this Province, and the Extent of its Bounds. For this Province is hardly known by our Mother Country. And I can with humble Modeſty obſerve, that the State of this Province was never yet fairly ſtated.</p>
@@ -230,7 +231,7 @@ bare Hopes of gaining <hi>Six Peace,</hi> would not all Mankind poſt up ſuch a
                </gap>. And it is <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb n="5" facs="tcp:040159_0008_1016310216B406E8"/>
+               <pb n="5" facs="unknown:040159_0008_1016310216B406E8"/>
 in the leaſt to be doubted but his Royal Majeſty and Par<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>amen<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -345,7 +346,7 @@ in the leaſt to be doubted but his Royal Majeſty and Par<gap reason="illegible
             <p>FROM the whole, I m<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ſt humbly conceive it would be the great intereſt of this moſt native Province, for the Great and General Court to poſt an Act to encourage
-<pb n="6" facs="tcp:040159_0009_10163104018C1670"/>
+<pb n="6" facs="unknown:040159_0009_10163104018C1670"/>
 our young Nobility, Gentry and Farmers to come and ſettle amongſt us, ſetting forth the Goodneſs of the Land, and the vaſt Improvements they may make of their Money, and to grant them what Lands they want to improve. Suppoſe but one ſingle Hundred of our young Nobility and Gentry was to come with <hi>Five thouſand Pounds</hi> Sterling in each Gentleman's Pocket, the Moment they arrive in <hi>Boſton,</hi> the whole Land will be worth double the Value by their coming, this can b<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> mathematically demonſtrated: But I don't doubt but Thouſands of our worthy honeſt Gentlemen's Sons will come and ſettle to the utmoſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -383,13 +384,13 @@ our young Nobility, Gentry and Farmers to come and ſettle amongſt us, ſetting
                </gap>, there was upwards of Two Thouſand Tuns imported from the Northern Kingdom in one Year: And Pot-Aſh being worth <hi>Thirty Pounds</hi> per Ton, (the ſaid 100 Tons at 30 <hi>l</hi> per Ton, amounts to <hi>Sixty Thouſand Pounds</hi>) And as the Pot-Aſh pays to his Majeſty <hi>Six Pounds</hi> per Ton Duty; I do not doubt in the leaſt for the <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ncouragement of this Manufactury in theſe Parts, by properly applying to
-<pb n="7" facs="tcp:040159_0010_10163107784891C0"/>
+<pb n="7" facs="unknown:040159_0010_10163107784891C0"/>
 the Parliament for the Drawback to be taken off, it would be done, and a Royal Bounty granted: And the Gentlemen of this Province coming to a juſt Way of thinking, they might flow in Riches as they pleaſe. And theſe Gentlemen or Society that are concerned in the aforementioned Mills, might directly bring this Scheme of the Pot-Aſh to Perfection; and what glorious Farms would be produced from this Scheme of Pot-Aſh?</p>
             <p>I had almoſt forgot to mention one more great Benefit to this great Town of <hi>Boſton</hi> in the building theſe Mills, which all Mankind muſt allow to be juſt; that is thus, Suppoſe it ſhould happen a War, by having ſuch a fine Communication with the Caſtle, we might ſoon ſupply that Fortreſs with Ten Thouſand brave Fellows that would face any Enemy on the whole Earth. And by this Scheme the great Town of <hi>Boſton</hi> may be made impregnable. We may ſee to what a glorious Spirit the Engliſh Nation are arrived to, in improving every Thing that's poſſible to be done for the Good of the Publick; witneſs the advancing 700,000 <hi>l.</hi> towards building a Bridge from <hi>Weſtminſter</hi> acroſs to <hi>Lambeth</hi>; and there is no Gentlemen, that are thinking Men, but knows the Profits ariſing by Tole of the ſaid Bridge will not bring in more than Two per Cent Intereſt; but they all know it's for the Good of their Country, therefore they ſee it neceſſary it ſhould be done notwithſtanding the Inſufficiency of the Premium for ſuch a vaſt Undertaking. Therefore as the aforementioned Mills can be mathematically proved, to produce Twenty per Cent. it will be look'd upon in <hi>England,</hi> if it is not done, that the Gentlemen of this Country do not conſult their own Intereſt and the general Good the whole Country will reap therefrom. And for any Perſon or Perſons to ſend Home any diſmal Complaint of the State of the Province, it will be look'd upon as only noiſy Faction and Clamour.</p>
             <p>I have been always ſuprized to think what vaſt Improvements have been performed by the Gentlemen of this Province in one Century. But now, provided our young Nobility, Gentry and Farmers come over, with their Pockets full of Money, what vaſt Improvements may be expected in the next Century.</p>
             <p>I don't in the leaſt doubt but theſe fifteen Colonies will arrive to as great a Pitch of Glory as thoſe fifteen Provinces of <hi>China.</hi> And as Sir WILLIAM TEMPLE ob<g ref="char:EOLhyphen"/>ſerveth, it muſt be allowed to be the greateſt, richeſt and moſt populous Kingdom now known in the World; and will be found perhaps to owe its Riches, Force, Civility and Felicity to the admirable Conſtitution of its Government, more than any other. The Empire conſiſts of fifteen ſeveral Kingdoms, which are govern'd by Vice-Roys, who yet live in Greatneſs, Splendor and Riches, equal to great and ſovereign Kings. In the whole Kingdom there are 145 Capital Cities, of mighty Extent and magnificent Buildings; and 1321 leſſer Cities, but all walled round; the Number of Villages is infinite: And no Country in the known World is ſo full of Inhabitants, nor ſo improved by Agriculture and Manufacturies, by infinite Growth of numerous Commodies, by Canals of incredible Length, Conjunction of Rivers, by Convenience of Ways for the Tranſportation of all Sorts of Goods from one Province to another; ſo as no Country has ſo great a Trade.</p>
             <p>
-               <pb n="8" facs="tcp:040159_0011_1016310A4F8E6048"/>THERE is a vulgar Error, to the vaſt Damage of this Province, that the <hi>New-England</hi> Oak is far inferiour to the Oak in <hi>Old England</hi>; and the Error has <gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="8" facs="unknown:040159_0011_1016310A4F8E6048"/>THERE is a vulgar Error, to the vaſt Damage of this Province, that the <hi>New-England</hi> Oak is far inferiour to the Oak in <hi>Old England</hi>; and the Error has <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>o long prevailed that it's now really allowed by all Sorts of People to be Fact: And the only Reaſon I find to Support this Opinion is, that the Ships built in <hi>New-England</hi> will not laſt ſo long as thoſe built in <hi>Old</hi>: I grant what they ſay. Thoſe Ships that have been hitherto built, are not ſo good as thoſe built in <hi>England.</hi> The Reaſon is plain to a Demonſtration why they are not ſo good<g ref="char:punc">▪</g> The People that procure the Timber cut it down in Seaſon and out of Seaſon, for they are obliged to cut it as faſt as they cut it. The Ship Builders are poor, and the Merchants will al<g ref="char:EOLhyphen"/>ways keep them ſo, according to the preſent Scheme they act by<g ref="char:punc">▪</g> ſo that it can<g ref="char:EOLhyphen"/>not be expected, from the ſolid Reaſon of things, theſe People can build with regu<g ref="char:EOLhyphen"/>lar ſeaſon'd Stu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -446,7 +447,7 @@ the Parliament for the Drawback to be taken off, it would be done, and a Royal B
                </gap>mal Confuſion by their Paper Currency, their Court was obliged to apply to the Merchants and Bankers for their Advice, concerning a Method to be uſed to find out the natural Proportion between publick Bills and Silver Species, and to Limit their proper Effects to a certain Sum; a plain <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>lluſtration that private is better than publick Credit. We have among our ſelves our Merchants
-<pb n="9" facs="tcp:040159_0012_1016310BDBDE0C68"/>
+<pb n="9" facs="unknown:040159_0012_1016310BDBDE0C68"/>
 Notes, <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>o called, being well ſounded, were 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -525,7 +526,7 @@ Notes, <gap reason="illegible" resp="#PDCC" extent="1 letter">
                </floatingText>
             </q>
             <p>
-               <pb n="10" facs="tcp:040159_0013_1016311071F36E08"/>THE moſt noble LORDS Anſwer to his Majeſty is full of Duty.</p>
+               <pb n="10" facs="unknown:040159_0013_1016311071F36E08"/>THE moſt noble LORDS Anſwer to his Majeſty is full of Duty.</p>
             <floatingText type="letter">
                <body>
                   <p>We are deeply ſenſible how unbecoming and pernicious it would be at any Time, to ſuffer either Prejudices or Animoſities to mix themſelves with parliamentary Deli<g ref="char:EOLhyphen"/>berations: And your <hi>MAJESTY</hi>'s gracious Recommendation to us particularly to avoid them at this importunate Conjuncture, cannot fail to awaken in us a more than ordinary Caution on that Head. <hi>Great-Britain</hi> hath but one common Intereſt conſiſting in the Security of your <hi>MAJESTY</hi>'s Perſon and Government, and the Welfare and Happineſs of your People. And when your <hi>MAJESTY</hi> is pleaſed to exhort us to Unanimity, it is only calling upon us to unite to our own Preſervation. We there<g ref="char:EOLhyphen"/>fore beſeech your <hi>MAJESTY</hi> to accept the ſtrongeſt and moſt affectionate Aſſurances, that we will zealouſly and cheerfully concur in all ſuch Meaſures as ſhall be moſt conduſive to thoſe great and deſirable Ends.</p>
@@ -552,7 +553,7 @@ Your moſt obedient humble Servant, <hi>Richard Fry.</hi>
             </closer>
          </div>
          <div type="postscript">
-            <pb n="11" facs="tcp:040159_0014_101631121BBCFB90"/>
+            <pb n="11" facs="unknown:040159_0014_101631121BBCFB90"/>
             <head>POSTSCRIPT.</head>
             <p>SINCE the finiſhing this Scheme, the worthy and ingenious Capt. CYPRIAN SOUTHACK made me a Preſent of the <hi>New-England Coaſting Pil<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -612,7 +613,7 @@ Your moſt obedient humble Servant, <hi>Richard Fry.</hi>
                </gap>ty for his <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb n="12" facs="tcp:040159_0015_1016311448BAC590"/>
+               <pb n="12" facs="unknown:040159_0015_1016311448BAC590"/>
 Labour and Pains in ſerving this moſt noble Province. Mankind nothing more imitates almighty God, than by rewarding thoſe that lay out their Powers and Faculties in ſer<g ref="char:EOLhyphen"/>ving Mankind, This <hi>Coaſting Pilot</hi> gives me a juſt Idea of the Coaſt of his Majeſty's Provinces from <hi>New-York</hi> to the Bay of <hi>Funday.</hi> The very Iſlands are able to contain Millions of People; which abſolutely deſtroys that vile ſelfiſh Principle of ſome People which ſay they are not for Strangers coming amongſt them, becauſe they ſhall not have Land enough for their Children; which is really a childiſh Story.</p>
             <p>UPON moderate Computation the Gentlemen Farmers have borrowed on Bond and Mortgages upwards of <hi>Five hundred thouſand Pounds</hi>; of which the greateſt Part is let at 10 <hi>per Cent.</hi> And according to the preſent Scituation of Affairs, it is impoſſible for thoſe Gentlemen to pay off their Securities: So that a Gentleman that has Mortgaged his Form for 500 <hi>l.</hi> that is worth 2000, his Farm on Proſecution is certainly forfeited for want of the 500 <hi>l.</hi> And its impoſſible it ſhould be otherwiſe whilſt the griping Uſurers Monopolizes into their own Coffers, the Bulk of that ſmall Quantity of running Specie that is now Extant amongſt us. And as the old ſaying is, The juſt Value of any Commodity whatever, is what it will fetch. The only Remedy to avoid this great Evil, is for the Aſſembly of this Province, as I obſerved before, to lay juſt Schemes, to perſwade and allure our young Nobility, Gentry and Farmers to come and ſettle among us<g ref="char:punc">▪</g>, and it's not to be doubted, but theſe Gentlemen would purchaſe the Farms of thoſe Gentlemen that have involved themſelves, and are now in a State of Bondage; and they may put Money ſufficient in their Pockets to proceed on the Settlement of new Farms on the out Lands, with Reſolution and Vigour. And in a few Years, by com<g ref="char:EOLhyphen"/>mon <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -628,7 +629,7 @@ Labour and Pains in ſerving this moſt noble Province. Mankind nothing more imi
                </gap>e to our great Aſſembly.</p>
          </div>
          <div type="petition">
-            <pb facs="tcp:040159_0016_1016311771B22EE8"/>
+            <pb facs="unknown:040159_0016_1016311771B22EE8"/>
             <head>To His EXCELLENCY <hi>JONATHAN BELCHER,</hi> 
                <abbr>Eſq</abbr> Captain General and Governour in Chief in and over His Majeſty's Province of the <hi>Maſſachuſetts-Bay</hi> in <hi>New-England.</hi> To the Honourable His Majeſty's Council. And the Honourable Houſe of Repreſentatives, in Ge<g ref="char:EOLhyphen"/>neral Court aſſembled at <hi>Boſton.</hi> The Petition of <hi>Richard Fry</hi> of <hi>Boſton.</hi>
             </head>
@@ -641,7 +642,7 @@ Labour and Pains in ſerving this moſt noble Province. Mankind nothing more imi
                   </gap>
                </hi> of <hi>Boſton,</hi> and <hi>Thomas Weſtbrook</hi> of <hi>Fulmouth,</hi> 
                <abbr>Eſq</abbr> for <hi>Seventy Pounds</hi> Sterling, ob<g ref="char:EOLhyphen"/>tained againſt me at the laſt Superiour Court held at <hi>York.</hi> Your moſt humble Petitioner in fact ſaith, that for want of one Writing or Inſtrument, under the Hand of Mr. <hi>Samuel Walde</hi> of <hi>Boſton,</hi> which was taken away from your Petitioner by <hi>Abraham Tyler,</hi> the Under-Sheriff for the County of <hi>York,</hi> under Colour of an Execution from Mr. <hi>Samuel Waldo</hi> of <hi>Boſton,</hi> and hath taken and converted the ſaid Writing or Inſtrument to his own Uſe, to the great Damage of your Petitioner. Your moſt humble Petitioner further obſerves, it has been always the Wiſdom of this great Aſſembly to reward all thoſe that have any ways ſerved this Province, with Rewards and Favours. Your Petitioner indented with Mr. <hi>Samuel Waldo</hi> in the Year 1731 in <hi>London,</hi> to have built within ten Months after my Arrival in <hi>New-England,</hi>
-               <pb n="ii" facs="tcp:040159_0017_1016311A2FF76B40"/>
+               <pb n="ii" facs="unknown:040159_0017_1016311A2FF76B40"/>
 a Paper <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> Your Petitioner arrived in <hi>New-England</hi> in the Year 1731. and <gap reason="illegible" resp="#PDCC" extent="1 word">
